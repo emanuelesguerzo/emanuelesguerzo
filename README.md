@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emanuele Sguerzo, Junior Web Developer.
+- 👋 Hi, I’m Emanuele Sguerzo.
 - 👀 I’m interested in Coding and Gaming.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on many diverse projects.
