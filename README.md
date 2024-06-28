@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SoldirVhale
-- 👀 I’m interested in Programming and Gaming.
+- 👋 Hi, I’m Emanuele Sguerzo, Junior Web Developer.
+- 👀 I’m interested in Coding and Gaming.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on many diverse projects.
 
