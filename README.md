@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emanuele Sguerzo.
-- 👀 I’m interested in Coding and Gaming.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 👀 I’m interested in Coding 👨🏻‍💻, Gaming 🎮 and Reading 📖.
+- 🌱 I’m currently learning PHP.
 - 💞️ I’m looking to collaborate on many diverse projects.
 
 
