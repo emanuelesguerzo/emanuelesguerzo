@@ -10,6 +10,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=emanuelesguerzo&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelesguerzo&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🎓 Currently leveling up my backend skills on Boot.dev
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/3190acbc-01f6-4ac8-9bdd-89b25c395408/thumbnail" >
+</p>
 <!---
 SoldirVhale/SoldirVhale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
