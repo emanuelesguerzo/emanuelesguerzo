@@ -16,7 +16,6 @@
 </p>
 
 ## 🛡️ Currently exploring infosec and ethical hacking on [TryHackMe](https://tryhackme.com/p/Vhale)
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2953544" style='border:none;'></iframe>
 <!---
 SoldirVhale/SoldirVhale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
