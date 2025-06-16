@@ -14,6 +14,9 @@
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/3190acbc-01f6-4ac8-9bdd-89b25c395408/thumbnail" >
 </p>
+
+## 🛡️ Currently exploring infosec and ethical hacking on [TryHackMe](https://tryhackme.com/p/Vhale)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2953544" style='border:none;'></iframe>
 <!---
 SoldirVhale/SoldirVhale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
