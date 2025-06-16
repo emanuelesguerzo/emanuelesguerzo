@@ -10,7 +10,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=emanuelesguerzo&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelesguerzo&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🎓 Currently leveling up my backend skills on <a href="https://www.boot.dev/u/vhale" target="_blank" rel="noopener noreferrer">Boot.dev</a>
+## 🎓 Currently leveling up my backend skills on [Boot.dev](https://www.boot.dev/u/vhale)
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/3190acbc-01f6-4ac8-9bdd-89b25c395408/thumbnail" >
 </p>
