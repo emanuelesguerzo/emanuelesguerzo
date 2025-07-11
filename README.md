@@ -62,8 +62,8 @@
 
 <div align="center">
   
-  ![](https://nirzak-streak-stats.vercel.app/?user=emanuelesguerzo&theme=vision-friendly-dark&hide_border=false)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelesguerzo&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://nirzak-streak-stats.vercel.app/?user=emanuelesguerzo&bg_color=1F222E&hide_border=true)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelesguerzo&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=1F222E&title_color=ffb000&text_color=ffffff)
   
 </div>
 
@@ -74,16 +74,16 @@
 <br>
 
 <!--Progetti Personali-->
-<h2>Projects I’m Proud Of</h2>
+<h2>My Recent Personal Projects</h2>
 
 <br>
 
 <div align="left">
   
-  [![Bar Manager Bo](https://github-readme-stats.vercel.app/api/pin/?username=emanuelesguerzo&repo=bar-manager-bo)](https://github.com/emanuelesguerzo/bar-manager-bo)
-  [![Bar Manager Fo](https://github-readme-stats.vercel.app/api/pin/?username=emanuelesguerzo&repo=bar-manager-fo)](https://github.com/emanuelesguerzo/bar-manager-fo)
-  [![Bookbot](https://github-readme-stats.vercel.app/api/pin/?username=emanuelesguerzo&repo=bookbot)](https://github.com/emanuelesguerzo/bookbot)
-  [![Python Asteroids](https://github-readme-stats.vercel.app/api/pin/?username=emanuelesguerzo&repo=python-asteroids)](https://github.com/emanuelesguerzo/python-asteroids)
+  [![Bar Manager Bo](https://github-readme-stats.vercel.app/api/pin/?username=emanuelesguerzo&repo=bar-manager-bo&bg_color=1F222E&title_color=ffb000&hide_border=true&icon_color=ffb000&text_color=ffffff)](https://github.com/emanuelesguerzo/bar-manager-bo)
+  [![Bar Manager Fo](https://github-readme-stats.vercel.app/api/pin/?username=emanuelesguerzo&repo=bar-manager-fo&bg_color=1F222E&title_color=ffb000&hide_border=true&icon_color=ffb000&text_color=ffffff)](https://github.com/emanuelesguerzo/bar-manager-fo)
+  [![Bookbot](https://github-readme-stats.vercel.app/api/pin/?username=emanuelesguerzo&repo=bookbot&bg_color=1F222E&title_color=ffb000&hide_border=true&icon_color=ffb000&text_color=ffffff)](https://github.com/emanuelesguerzo/bookbot)
+  [![Python Asteroids](https://github-readme-stats.vercel.app/api/pin/?username=emanuelesguerzo&repo=python-asteroids&bg_color=1F222E&title_color=ffb000&hide_border=true&icon_color=ffb000&text_color=ffffff)](https://github.com/emanuelesguerzo/python-asteroids)
   
 </div>
 
@@ -98,8 +98,8 @@
 
 <div align="left">
   
-  [![BDoctors Backend](https://github-readme-stats.vercel.app/api/pin/?username=mbaisotti99&repo=project-work-backend&show_owner=true)](https://github.com/mbaisotti99/project-work-backend)
-  [![BDoctors Frontend](https://github-readme-stats.vercel.app/api/pin/?username=mbaisotti99&repo=pw-bdoctors-frontend&show_owner=true)](https://github.com/mbaisotti99/pw-bdoctors-frontend)
+  [![BDoctors Backend](https://github-readme-stats.vercel.app/api/pin/?username=mbaisotti99&repo=project-work-backend&show_owner=true&bg_color=1F222E&title_color=ffb000&hide_border=true&icon_color=ffb000&text_color=ffffff)](https://github.com/mbaisotti99/project-work-backend)
+  [![BDoctors Frontend](https://github-readme-stats.vercel.app/api/pin/?username=mbaisotti99&repo=pw-bdoctors-frontend&show_owner=true&bg_color=1F222E&title_color=ffb000&hide_border=true&icon_color=ffb000&text_color=ffffff)](https://github.com/mbaisotti99/pw-bdoctors-frontend)
 
 </div>
 
