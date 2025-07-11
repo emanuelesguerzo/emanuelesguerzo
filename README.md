@@ -62,13 +62,9 @@
 
 <div align="center">
   
-  ![](https://nirzak-streak-stats.vercel.app/?user=emanuelesguerzo&bg_color=1F222E&hide_border=true)
+  ![](https://nirzak-streak-stats.vercel.app/?user=emanuelesguerzo&theme=vision-friendly-dark&hide_border=true)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelesguerzo&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=1F222E&title_color=ffb000&text_color=ffffff)
   
-</div>
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 <br>
