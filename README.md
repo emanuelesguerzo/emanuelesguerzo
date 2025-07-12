@@ -67,6 +67,8 @@
   
 </div>
 
+![snake gif](https://github.com/emanuelesguerzo/emanuelesguerzo/blob/output/github-snake-dark.svg)
+
 <br>
 
 <!--Progetti Personali-->
