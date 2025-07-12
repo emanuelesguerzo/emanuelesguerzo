@@ -22,7 +22,7 @@
 <br>
 
 <!--Tech Stack-->
-<h2 align="left"> 💻 Tech Stack </h2>
+<h2 align="left">  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hwZjZuM2Y5aWoyYzJld3c1aGllMmcyOHNmZjAzdWJwZmhyZXFqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dXkewidie4SLwZY87T/giphy.gif" width="50"> Tech Stack </h2>
 
 <br>
 
@@ -56,7 +56,7 @@
 <br>
 
 <!--Statistiche Github-->
-<h2 align="left"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtkd3d6ejRrbTM0dThpYm1tM3RsNG03a2JhdGIwYTRlcWcwMmMydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40"> Github Statistics</h2>
+<h2 align="left"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGN0MnJhbDJqaWFmOGJyNndxYXZ0ZGYxZmJzMXBuNXo2MXRkbW1udCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DSmAIq32kNQm1X6K8m/giphy.gif" width="50"> Github Statistics</h2>
 
 <br>
 
@@ -70,7 +70,7 @@
 <br>
 
 <!--Progetti Personali-->
-<h2>My Recent Personal Projects</h2>
+<h2>  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnd2ZGU3cmplZG91eGVoZmZ0YjMxbHNvY3hmMG1jbGcyM3EzZmtyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/THvAQ9mQF4CY8O3FOr/giphy.gif" width="50"> My Recent Personal Projects</h2>
 
 <br>
 
@@ -88,7 +88,7 @@
 <br>
 
 <!--Progetti a cui ho collaborato-->
-<h2>Team Projects</h2>
+<h2>  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2R3dGlpZ2M3d2txYzFocXk4ZjdxZHl0ZHE5cWwweDFuemdxdjFjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xACl6QoEJykKGIplyp/giphy.gif" width="50"> Team Projects</h2>
 
 <br>
 
@@ -103,6 +103,7 @@
 
 <!--Boot.dev-->
 <h2>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWxpOXNhbnYxYmRlYWJyaXZjeXNtd3RweXc5dGcwMnEza3E3MWFrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K0se0vQYyIidZ3oAym/giphy.gif" width="50">
   Leveling up my backend skills on 
   <a href="https://www.boot.dev/u/vhale">
     Boot.dev
@@ -119,10 +120,11 @@
 
 <!--TryHackMe-->
 <h2>
-  Exploring infosec and ethical hacking on
-  <a href="https://tryhackme.com/p/Vhale">
-    TryHackMe
-  </a>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FpaDVsdWJtN2Ixc3Q4a2I2bDludTZ1cXJmcHY1Ynp2dzI2ZXA3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CfFQcSCxeG1HeMgPWz/giphy.gif" width="50">
+    Exploring infosec and ethical hacking on
+    <a href="https://tryhackme.com/p/Vhale">
+        TryHackMe
+    </a>
 </h2>
 
 <br>
