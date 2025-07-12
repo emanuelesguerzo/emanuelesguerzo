@@ -22,11 +22,11 @@
 <br>
 
 <!--Tech Stack-->
-<h2 align="left">  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hwZjZuM2Y5aWoyYzJld3c1aGllMmcyOHNmZjAzdWJwZmhyZXFqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dXkewidie4SLwZY87T/giphy.gif" width="50"> Tech Stack </h2>
+<h2>  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hwZjZuM2Y5aWoyYzJld3c1aGllMmcyOHNmZjAzdWJwZmhyZXFqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dXkewidie4SLwZY87T/giphy.gif" width="50"> Tech Stack </h2>
 
 <br>
 
-<div align="left">
+<div>
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -56,7 +56,7 @@
 <br>
 
 <!--Statistiche Github-->
-<h2 align="left"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGN0MnJhbDJqaWFmOGJyNndxYXZ0ZGYxZmJzMXBuNXo2MXRkbW1udCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DSmAIq32kNQm1X6K8m/giphy.gif" width="50"> Github Statistics</h2>
+<h2> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGN0MnJhbDJqaWFmOGJyNndxYXZ0ZGYxZmJzMXBuNXo2MXRkbW1udCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DSmAIq32kNQm1X6K8m/giphy.gif" width="50"> Github Statistics</h2>
 
 <br>
 
@@ -74,7 +74,7 @@
 
 <br>
 
-<div align="left">
+<div>
   
   [![Bar Manager Bo](https://github-readme-stats.vercel.app/api/pin/?username=emanuelesguerzo&repo=bar-manager-bo&bg_color=1F222E&title_color=ffb000&hide_border=true&icon_color=ffb000&text_color=ffffff)](https://github.com/emanuelesguerzo/bar-manager-bo)
   [![Bar Manager Fo](https://github-readme-stats.vercel.app/api/pin/?username=emanuelesguerzo&repo=bar-manager-fo&bg_color=1F222E&title_color=ffb000&hide_border=true&icon_color=ffb000&text_color=ffffff)](https://github.com/emanuelesguerzo/bar-manager-fo)
@@ -92,7 +92,7 @@
 
 <br>
 
-<div align="left">
+<div>
   
   [![BDoctors Backend](https://github-readme-stats.vercel.app/api/pin/?username=mbaisotti99&repo=project-work-backend&show_owner=true&bg_color=1F222E&title_color=ffb000&hide_border=true&icon_color=ffb000&text_color=ffffff)](https://github.com/mbaisotti99/project-work-backend)
   [![BDoctors Frontend](https://github-readme-stats.vercel.app/api/pin/?username=mbaisotti99&repo=pw-bdoctors-frontend&show_owner=true&bg_color=1F222E&title_color=ffb000&hide_border=true&icon_color=ffb000&text_color=ffffff)](https://github.com/mbaisotti99/pw-bdoctors-frontend)
