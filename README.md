@@ -125,6 +125,9 @@
 
 <!--Visite e Follower-->
 <div align="center">
+  <a href="#">
+      <img src="https://komarev.com/ghpvc/?username=emanuelesguerzo&abbreviated=true&color=blue" alt="emanuelesguerzo" align="center" /> 
+  <a/>
   <a href="https://github.com/emanuelesguerzo?tab=followers">
     <img src="https://img.shields.io/github/followers/emanuelesguerzo?label=Followers&style=social" alt="GitHub Badge" align="center">
   <a/>
