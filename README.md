@@ -57,35 +57,7 @@
 
 <br>
 
-<!--Progetti Personali-->
-<h2>  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnd2ZGU3cmplZG91eGVoZmZ0YjMxbHNvY3hmMG1jbGcyM3EzZmtyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/THvAQ9mQF4CY8O3FOr/giphy.gif" width="50"> My Recent Personal Projects</h2>
-
-<br>
-
-<div>
-  
-  [![Bar Manager Bo](https://github-readme-stats.vercel.app/api/pin/?username=emanuelesguerzo&repo=bar-manager-bo&bg_color=20232a&title_color=ffb000&hide_border=true&icon_color=ffb000&text_color=ffffff)](https://github.com/emanuelesguerzo/bar-manager-bo)
-  [![Bar Manager Fo](https://github-readme-stats.vercel.app/api/pin/?username=emanuelesguerzo&repo=bar-manager-fo&bg_color=20232a&title_color=ffb000&hide_border=true&icon_color=ffb000&text_color=ffffff)](https://github.com/emanuelesguerzo/bar-manager-fo)
-  [![Bookbot](https://github-readme-stats.vercel.app/api/pin/?username=emanuelesguerzo&repo=bookbot&bg_color=20232a&title_color=ffb000&hide_border=true&icon_color=ffb000&text_color=ffffff)](https://github.com/emanuelesguerzo/bookbot)
-  [![Python Asteroids](https://github-readme-stats.vercel.app/api/pin/?username=emanuelesguerzo&repo=python-asteroids&bg_color=20232a&title_color=ffb000&hide_border=true&icon_color=ffb000&text_color=ffffff)](https://github.com/emanuelesguerzo/python-asteroids)
-  
-</div>
-
 <a href="https://github.com/emanuelesguerzo?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-
-<br>
-
-<!--Progetti a cui ho collaborato-->
-<h2>  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2R3dGlpZ2M3d2txYzFocXk4ZjdxZHl0ZHE5cWwweDFuemdxdjFjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xACl6QoEJykKGIplyp/giphy.gif" width="50"> Team Projects</h2>
-
-<br>
-
-<div>
-  
-  [![BDoctors Backend](https://github-readme-stats.vercel.app/api/pin/?username=mbaisotti99&repo=project-work-backend&show_owner=true&bg_color=20232a&title_color=ffb000&hide_border=true&icon_color=ffb000&text_color=ffffff)](https://github.com/mbaisotti99/project-work-backend)
-  [![BDoctors Frontend](https://github-readme-stats.vercel.app/api/pin/?username=mbaisotti99&repo=pw-bdoctors-frontend&show_owner=true&bg_color=20232a&title_color=ffb000&hide_border=true&icon_color=ffb000&text_color=ffffff)](https://github.com/mbaisotti99/pw-bdoctors-frontend)
-
-</div>
 
 <br>
 
