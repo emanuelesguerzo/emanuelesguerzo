@@ -73,17 +73,6 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/Vhale.png" alt="Your Image Badge" />
 </p>
 
-<hr>
-
-<!--Visite e Follower-->
-<div align="center">
-  <a href="#">
-      <img src="https://komarev.com/ghpvc/?username=emanuelesguerzo&abbreviated=true&color=blue" alt="emanuelesguerzo" align="center" /> 
-  <a/>
-  <a href="https://github.com/emanuelesguerzo?tab=followers">
-    <img src="https://img.shields.io/github/followers/emanuelesguerzo?label=Followers&style=social" alt="GitHub Badge" align="center">
-  <a/>
-</div>
 <!---
 SoldirVhale/SoldirVhale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
