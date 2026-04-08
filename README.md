@@ -23,24 +23,6 @@
 
 <br>
 
-<!--Statistiche Github-->
-<h2> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGN0MnJhbDJqaWFmOGJyNndxYXZ0ZGYxZmJzMXBuNXo2MXRkbW1udCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DSmAIq32kNQm1X6K8m/giphy.gif" width="50"> Github Statistics</h2>
-
-<br>
-
-<div align="center">
-  
-  ![](https://nirzak-streak-stats.vercel.app/?user=emanuelesguerzo&theme=react&hide_border=true)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelesguerzo&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=20232a&title_color=ffb000&text_color=ffffff)
-  
-</div>
-
-<br>
-
-<a href="https://github.com/emanuelesguerzo?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-
-<br>
-
 <!--Boot.dev-->
 <h2>
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWxpOXNhbnYxYmRlYWJyaXZjeXNtd3RweXc5dGcwMnEza3E3MWFrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K0se0vQYyIidZ3oAym/giphy.gif" width="50">
