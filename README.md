@@ -27,7 +27,7 @@
 <h2>
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWxpOXNhbnYxYmRlYWJyaXZjeXNtd3RweXc5dGcwMnEza3E3MWFrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K0se0vQYyIidZ3oAym/giphy.gif" width="50">
   Leveling up my backend skills on 
-  <a href="https://www.boot.dev/u/vhale">
+  <a href="https://www.boot.dev/u/zerg">
     Boot.dev
   </a>
 </h2>  
